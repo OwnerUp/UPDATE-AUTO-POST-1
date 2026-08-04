@@ -603,10 +603,10 @@ def king_match(
 
     text = f"""🏆 {league} 🏆
 
-    India’s No.1 Analyst 🏏
+India’s No.1 Analyst 🏏
 
-    {team1}
-            🆚 
+{team1}
+                🆚 
               {team2}
 
 Aisa No.1 Analyst 🏏
@@ -622,7 +622,8 @@ WAIT FOR NEXT ENTRY ✅
 𝐎𝐍𝐋𝐘 👉 KING BHAI 💠"""
 
     promo1 = f"""Ragister & Bet ✅
-https://www.stake888.io
+    
+https://www.stake888.black
     
 {winner} WIN THE MATCH
 

@@ -402,8 +402,8 @@ OWNER 🔻 KING BHAI 💠"""
 
     promo = f"""Ragister & Bet Only 
 
-👉 https://www.stake888.io
-👉 https://www.stake888.io
+👉 https://www.stake888.black
+👉 https://www.stake888.black
 
 {team} WIN THE TOSS
 

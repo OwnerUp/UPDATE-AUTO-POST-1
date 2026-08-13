@@ -305,7 +305,7 @@ FIX TOSS PASS
 SURE TOSS PASS
 LIFE TIME TOSS PASS
 
-OWNER 👉 DUBAI KING 💠"""
+OWNER 👉 Khusi Tip 🏏 💠"""
             # =====================================
             # SHUBHAM
             # =====================================

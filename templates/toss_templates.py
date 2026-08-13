@@ -149,9 +149,10 @@ Rocky bhai (Trending King)💠"""
     promo = f"""If Everything Is Yours, Then There Is Only One Side Of The Coin, "Victory"✔️
 
 {team} Win This Toss...💯
+
+PLAY AND ENJOY GUYS
     
 👇 play only with 👇
-http://Www.Khelking.buzz 
 
 Rocky bhai (Trending King) 💠"""
 
@@ -530,7 +531,7 @@ TOSS ➜ {team}
 FIX TOSS FIXING ON DUBAI REPORT 
 NO CHANGE TOSS ONLY FIX REPORT
 
-RANA SAHAB 💠"""
+Khusi Tip 🏏 💠"""
 
     promo = f"""{team} WILL WIN THIS TOSS 👑
 
@@ -538,7 +539,7 @@ BINDASH PLAY KRO APNI FULL LIMIT SE
 
 WAIT FOR MATCH ENTRY
 
-RANA SAHAB 💠"""
+Khusi Tip 🏏 💠"""
 
     return caption, promo
 

@@ -445,7 +445,7 @@ OWNER 👉 PAWAN SINGH 💠"""
 
 🏆 PREMIUM MEMBERS WIN 🏆
 
-OWNER 👉 RANA SAHAB 💠"""
+OWNER 👉 Khusi Tip 🏏 💠"""
 
            # =====================================
             # SHUBHAM

@@ -216,10 +216,7 @@ def rocky_session(over, run, call):
 
 {call} KRO {emoji}
 
-AISA BEST SITE 👇
-
-Www.Khelking.buzz 💯
-Www.Khelking.buzz 💯
+AISA BEST SITE SOON
 """.strip()
 
 

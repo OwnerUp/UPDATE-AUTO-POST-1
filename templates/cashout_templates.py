@@ -258,15 +258,15 @@ def vikram_cashout():
 # =========================================
 
 def pawan_cashout():
-    return """💸 CASH OUT 💸
-
-✅ BOOK YOUR PROFIT
-
+    return """✅ BOOK YOUR PROFIT
+    
+    💸 CASH OUT 💸
+    
 🎯 TARGET ACHIEVED
 
 🔥 NEXT UPDATE COMING SOON
 
-💥 PAWAN 💥
+Khusi Tip 🏏 
 """
 
 

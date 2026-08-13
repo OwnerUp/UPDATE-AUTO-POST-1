@@ -274,10 +274,6 @@ Rocky bhai (Trending King) 💠"""
 
 If Everything Is Yours, Then There Is Only One Side "Victory"✔️
 
-Ragister & Bet
-Www.Khelking.buzz
-Www.Khelking.buzz
-
 Rocky bhai (Trending King) 💠"""
 
     return text, promo1, None
@@ -736,7 +732,7 @@ NO LIMIT MATCH ✔️
 
 BIG LIMIT ENTRY ✔️
 
-ONLY 👉 RANA SAHAB 💠"""
+ONLY 👉 Khusi Tip 🏏 💠"""
 
     promo1 = f"""Aisa Best Fixer Match Report 🔥
 
@@ -744,7 +740,7 @@ ONLY 👉 RANA SAHAB 💠"""
 
 WAIT FOR NEXT ENTRY
 
-ONLY 👉 RANA SAHAB 💠"""
+ONLY 👉 Khusi Tip 🏏 💠"""
 
     return text, promo1, None
 

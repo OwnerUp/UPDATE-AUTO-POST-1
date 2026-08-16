@@ -94,8 +94,6 @@ def batman_sball(ball, run, call):
 
 {call} KARO 👉 {emoji}
 
-PLAY ON 👉 Www.Khelking.buzz
-
 SAME LIMIT SE PLAY 💰
 """.strip()
 

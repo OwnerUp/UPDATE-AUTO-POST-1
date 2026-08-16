@@ -637,7 +637,7 @@ def dubai_sball(ball, run, call):
     emoji = SESSION_call_emoji(call)
 
     return f"""
-🏏 DUBAI KING 💠
+🏏 Khusi Tips 💠
 
 {run} RUN 👉 {ball} BALL
 
@@ -656,7 +656,7 @@ def dubai_sball_pass(ball, result):
 
 🅿️🅰️💲💲✔️
 
-OWNER 👉 DUBAI KING 💠
+OWNER 👉 Khusi Tips 💠
 """.strip()
 
 

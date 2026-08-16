@@ -84,16 +84,8 @@ BATMAN (Official) 💠"""
 
     promo1 = f"""{winner} Will Win This Match..!! 🤑✔️
 
-🆔LELO YAHA SE OR LIMIT RADDY
+SAB YAHA SE OR LIMIT RADDY
 RAKHO
-
-For VIP Clients
-wa.link/khelkingvipho
-
-WAIT FOR BEST ENTRY
-
-Ragister & Bet
-Www.Khelking.buzz
 
 ONLINE 🔸 BATMAN (Official) 💠"""
 

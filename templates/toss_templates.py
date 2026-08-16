@@ -52,13 +52,7 @@ ONLINE 🔸 BATMAN (Official) 💠"""
 
 {team} Will Win This Toss..!! 🤑✔️
 
-🆔LELO YAHA SE OR LIMIT RADDY
-RAKHO
-
-Best Betting Site👇
-
-Only One Khelking 💯
-http://Www.Khelking.buzz 
+LIMIT RADDY RAKHO
 
 ONLINE 🔸 BATMAN (Official) 💠"""
 
